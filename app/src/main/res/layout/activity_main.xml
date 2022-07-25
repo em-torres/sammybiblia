@@ -20,7 +20,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hello World!"
+            android:text="@string/app_name"
             android:textColor="#000000"
             android:textSize="36sp"
             tools:text="Santa Biblia" />
@@ -29,21 +29,21 @@
             android:id="@+id/btn_antiguo_testamento"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/Button"
+            android:text="@string/antiguo_testamento"
             tools:text="antiguo testamento" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/btn_nue_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/Button2"
+            android:text="@string/nuevo_testamento"
             tools:text="nuevo testamento" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/btn_predica"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/Button3"
+            android:text="@string/predicas"
             tools:text="predicas" />
 
     </LinearLayout>

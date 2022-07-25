@@ -5,4 +5,7 @@
     <string name="Button3">Button</string>
     <string name="siguiente">\@string/Button</string>
     <string name="button">Button</string>
+    <string name="antiguo_testamento">antiguo testamento</string>
+    <string name="nuevo_testamento">nuevo testamento</string>
+    <string name="predicas">predicas</string>
 </resources>
