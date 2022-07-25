@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Santa Biblia</string>
+    <string name="Button">Button</string>
+    <string name="Button2">Button</string>
+    <string name="Button3">Button</string>
+    <string name="siguiente">\@string/Button</string>
+    <string name="button">Button</string>
+</resources>
